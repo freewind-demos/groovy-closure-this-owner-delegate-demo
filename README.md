@@ -1,10 +1,10 @@
-Groovy Hello World Demo
-=======================
+Groovy Closure Demo
+===================
 
-A very simple groovy project with gradle.
+Groovy Closure is the most powerful feature of Groovy:
 
-Run tests:
+1. `this`
+2. `owner`
+3. `delegate`
 
-```
-./gradlew test
-```
+See the files under `src/main/groovy`.
